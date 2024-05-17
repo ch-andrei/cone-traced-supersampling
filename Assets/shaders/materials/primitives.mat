@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: primitives
+  m_Shader: {fileID: 4800000, guid: c44ea80cf2524dc19494ee66ce570383, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _CAMERA_STATIC_ON
+  - _DEBUG_SUBPIXEL_EDGE_RESOLVE_SDFSUM_ON
+  - _SUBPIXEL_EDGE_RESOLVE_CORRECT_SAMPLE_POSITION_ON
+  - _SUBPIXEL_EDGE_RESOLVE_NORMAL_PROJECT_CONE_ON
+  - _SUBPIXEL_EDGE_RESOLVE_PROJECT_TO_CONE_CROSSSECT_ON
+  - _SUBPIXEL_EDGE_RESOLVE_SAMPLE_POSITION_ON
+  - _SUBPIXEL_EDGE_RESOLVE_TWO_PLANE_INTERSECTION_ON
+  - _USE_SUBPIXEL_EDGE_RESOLVE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AA_FACTOR: 1
+    - _BumpScale: 1
+    - _CAMERA_SPEED: 0.1
+    - _CAMERA_SPIN: 0.2
+    - _CAMERA_STATIC: 1
+    - _Cutoff: 0.5
+    - _DEBUG_SUBPIXEL_EDGE_RESOLVE_COSSIM: 0
+    - _DEBUG_SUBPIXEL_EDGE_RESOLVE_CURVATURE: 0
+    - _DEBUG_SUBPIXEL_EDGE_RESOLVE_DIRECTION: 0
+    - _DEBUG_SUBPIXEL_EDGE_RESOLVE_SDFSUM: 1
+    - _DEBUG_SUBPIXEL_EDGE_RESOLVE_WEIGHT: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _MAX_RAYMARCH_STEPS: 2048
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SUBPIXEL_EDGE_RESOLVE_CONE_MULT: 1.5
+    - _SUBPIXEL_EDGE_RESOLVE_CONE_MULT_COS: 2
+    - _SUBPIXEL_EDGE_RESOLVE_CORRECT_SAMPLE_POSITION: 1
+    - _SUBPIXEL_EDGE_RESOLVE_COSSIM_THRESHOLD_MAX: 0.999
+    - _SUBPIXEL_EDGE_RESOLVE_COSSIM_THRESHOLD_MIN: 0
+    - _SUBPIXEL_EDGE_RESOLVE_CURVATURE_THRESHOLD: 0.0001
+    - _SUBPIXEL_EDGE_RESOLVE_NORMAL_PROJECT_CONE: 1
+    - _SUBPIXEL_EDGE_RESOLVE_NORMAL_SMALL: 0.003
+    - _SUBPIXEL_EDGE_RESOLVE_PROJECT_TO_CONE_CROSSSECT: 1
+    - _SUBPIXEL_EDGE_RESOLVE_SAMPLE_POSITION: 1
+    - _SUBPIXEL_EDGE_RESOLVE_TWO_PLANE_INTERSECTION: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _USE_SUBPIXEL_EDGE_RESOLVE: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MousePos: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
